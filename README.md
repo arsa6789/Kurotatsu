@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Kurotatsu (In development)
 
-## Getting Started
+<div align="center">
+  <img src="./public/New Project(1).png" alt="Kurotatsu logo" width="132" />
 
-First, run the development server:
+  <p><strong>Your anime journey, kept in rhythm.</strong></p>
+  <p>Track every episode, shape the perfect watchlist, and never miss a returning season.</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+  <p>
+    <a href="#getting-started">Get started</a> ·
+    <a href="#the-experience">Explore the experience</a> ·
+    <a href="#project-map">Project map</a>
+  </p>
+</div>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Kurotatsu is a personal anime companion built around the small moments that make a watchlist feel alive: remembering where you left off, finding the next show, and getting the nudge when an anticipated series returns.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+> **Kurotatsu** (黒龍) means *black dragon* in Japanese — a fitting guide for the stories still waiting in your queue.
 
-## Learn More
+## The experience
 
-To learn more about Next.js, take a look at the following resources:
+| Space | What it is for |
+| :-- | :-- |
+| **Home** | A simple dashboard for tracking your progress and other vital thinsgs |
+| **My List** | Your personal library: watching, completed, on hold, dropped, and plan-to-watch titles — with progress and score tracking. |
+| **Browse** | Discover anime |
+| **Schedule** | See upcoming episodes and organise the week around the shows you follow. |
+| **Profile** | themes, cuztomizations and more!! |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Built around your momentum
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Episode progress** — (we will plan it later)
+- **updates** — new episodes and seasons will come and shown on popular section
+- **Watch reminders** — Notifications for new season reminders and other small stuff
+- **Your list, your way** — filter titles and keep them in your list.
+- **Account-ready sync** — (we will add this feature after planning)
+- **Mobile-friendly** — Capacitor is included so Kurotatsu can grow beyond the browser.
 
-## Deploy on Vercel
+## Current status
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Kurotatsu is in active development and I am making it as soon as humanly possible.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Getting started
+
+will be added
